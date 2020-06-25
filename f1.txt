@@ -1,0 +1,7 @@
+class A{
+	priavet int no;
+
+	A(int no){
+		this.no = no;
+	}
+}
